@@ -93,10 +93,12 @@ Simply upload a resume and see the magic happen! You can also try it with the pr
 ![ss7](https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/1d6297fd-e10c-441a-9fd3-2994e5efeb9f)
 
 - Course Recommendation
-![ss9](https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/ca242614-5065-431d-afb8-97950ee50b8f)
+![ss8](https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/1e29062a-e769-4992-9d9b-d513b6fdc0ab)
+
 
 - Tips and Overall Score
-
+- 
+![ss9](https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/ca242614-5065-431d-afb8-97950ee50b8f)
 ![ss10](https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/c5734046-6e90-4671-940a-f2b368797988)
 
 - Feedback Form
