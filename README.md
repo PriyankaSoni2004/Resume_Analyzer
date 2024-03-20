@@ -97,7 +97,7 @@ Simply upload a resume and see the magic happen! You can also try it with the pr
 
 
 - Tips and Overall Score
-- 
+  
 ![ss9](https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/ca242614-5065-431d-afb8-97950ee50b8f)
 ![ss10](https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/c5734046-6e90-4671-940a-f2b368797988)
 
@@ -115,12 +115,7 @@ Simply upload a resume and see the magic happen! You can also try it with the pr
 
 - User Count and Data
 
-<img width="957" alt="ss5" src="https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/a456f9ca-579a-4cae-9690-1aeae7018161">
-
-
-- Feedback Data
-
-<img width="957" alt="ss5" src="https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/84925067-9681-4b51-8ca5-8bea3a5a963f">
+<img width="954" alt="ss4" src="https://github.com/PriyankaSoni2004/Resume_Analyzer/assets/91836065/4fa6ce12-9d42-4e58-83de-fb45d10a90f0">
 
 
 - Pie Chart Analytics
